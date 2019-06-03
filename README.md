@@ -7,7 +7,7 @@ This is an API project to retrieve and manage phone numbers of customers. This p
 This project is built on:
 - Visual Studio 2015
 - .NET Framework 4.6
-- Web API 5.2
+- Web API 2
 - ASP.NET 4.6
 - C#
 
